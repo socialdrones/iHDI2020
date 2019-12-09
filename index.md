@@ -177,7 +177,7 @@ At least one author must attend. Attendees must register for the workshop and at
 
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/ladelfa.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/ljungblad.jpg" alt="" /></span>
 <strong>Sara Ljungblad</strong> is an Assistant Professor at the University of Gothenburg and Chalmers University of Technology. She is interested in inclusive design methods and has done several long-term studies understand experiences of robotic products in everyday settings. She is currently funded by <a href="https://wasp-hs.org/projects/the-rise-of-social-drones-a-constructive-design-research-agenda/">WASP-HS</a> to conduct constructive and critical design research on "social drones."
 </p>
 </div>
