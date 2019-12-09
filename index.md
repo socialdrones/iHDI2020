@@ -216,6 +216,4 @@ At least one author must attend. Attendees must register for the workshop and at
 	</div>
 </section>
 
-<p><a href="#top" style="text-decoration: none; text-align:center;"><span class="icon fa-home">&nbsp;&nbsp;</span></a><a href="#top">Top</a><br></p>
-
 </div>
