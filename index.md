@@ -76,9 +76,7 @@ The proceedings will be stored on the open archive <a href="https://hal.archives
 <p>
 At least one author must attend. Attendees must register for the workshop and at least one day of CHI 2020.
 </p>
-	
-</span>
-				
+					
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Submit</a></li>
 				</ul>
@@ -91,13 +89,21 @@ At least one author must attend. Attendees must register for the workshop and at
 		</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+			
+<header class="major">
+<h3>Important Dates and Links</h3>
+</header>
+				
+<ul>
+	<li>asdf</li>
+	<li>asdf</li>
+</ul>
+	
+<!--
+<ul class="actions">
+<li><a href="generic.html" class="button">Learn more</a></li>
+</ul>
+-->
 			</div>
 		</div>
 	</section>
@@ -107,13 +113,19 @@ At least one author must attend. Attendees must register for the workshop and at
 		</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+			
+<header class="major">
+	<h3>Program</h3>
+</header>
+
+<p>TBA</p>
+
+<!-- 
+<ul class="actions">
+<li><a href="generic.html" class="button">Learn more</a></li>
+</ul> 
+-->
+				
 			</div>
 		</div>
 	</section>
@@ -122,13 +134,35 @@ At least one author must attend. Attendees must register for the workshop and at
 <!-- Three -->
 <section id="three">
 	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		
+<header class="major">
+<h2>Proceedings</h2>
+</header>
+
+<p>TBA</p>
+
+<!--
+<ul class="actions">
+<li><a href="generic.html" class="button next">Get Started</a></li>
+</ul>
+-->
+	</div>
+</section>
+
+<section>
+	<div class="inner">
+		
+<header class="major">
+<h2>Organizers</h2>
+</header>
+
+<p>TBA</p>
+
+<!--
+<ul class="actions">
+<li><a href="generic.html" class="button next">Get Started</a></li>
+</ul>
+-->
 	</div>
 </section>
 
