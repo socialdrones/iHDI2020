@@ -60,7 +60,7 @@ We seek high quality contributions exploring HDI from a plethora of perspectives
 * Prototyping and development tools
 * Ethnographic fieldwork with users, developers, and bystanders
 
-Authors are invited to submit 2- to 6-page position papers in the CHI Extended Abstracts Format, on or before February 11, 2020; at: [easychair.org/conferences/?conf=ihdi2020](https://easychair.org/conferences/?conf=ihdi2020
+Authors are invited to submit 2- to 6-page position papers in the CHI Extended Abstracts Format, on or before February 11, 2020; at: [easychair.org/conferences/?conf=ihdi2020](https://easychair.org/conferences/?conf=ihdi2020)
 
 The proceedings will be stored on the open archive [HAL](https://hal.archives-ouvertes.fr/), indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be invited for publication in a special issue of the THRI journal.
 
