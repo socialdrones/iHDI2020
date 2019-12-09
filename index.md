@@ -43,29 +43,40 @@ Current HDI research field builds on a diverse motivations and methodologies, wi
 				<header class="major">
 					<h3>Call for Papers</h3>
 				</header>
-
-<span markdown="1">
-
+<p>
 Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications such as exercise, companionship, and tangible user interfaces are active research topics within the CHI community.
+</p>
+				
+<p>
+Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines &ndash; design, engineering, social sciences, and humanities &ndash; is essential. To this end, the <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong> aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.
+</p>
 
-Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines – design, engineering, social sciences, and humanities – is essential. To this end, the Interdisciplinary Workshop on Human-Drone Interaction (iHDI) aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.
+<p>
+We seek high quality contributions exploring HDI from a plethora of perspectives, including but not limited to: empirical research, engineering, design, theory, art, and opinions. Examples for topics can include, but are not limited to, the following:
+</p>
 
-We seek high quality contributions exploring HDI from a plethora of perspectives, including but not limited to: empirical research, engineering, design, theory, art, and opinions. Topics can include, but are not limited to, the following:
+<ul>
+<li>Novel HDI experiences</li>
+<li>Theoretical and philosophical arguments on concepts and contexts</li>
+<li>Transferring learnings between HDI and other HCI or extracurricular topics</li>
+<li>Policy and regulatory issues</li>
+<li>Accessible HDI</li>
+<li>Prototyping and development tools</li>
+<li>Ethnographic fieldwork with users, developers, and bystanders</li>
+</ul>
 
-* Novel HDI experiences
-* Theoretical and philosophical arguments on concepts and contexts
-* Transferring learnings between HDI and other HCI or extracurricular topics
-* Policy and regulatory issues
-* Accessible HDI
-* Prototyping and development tools
-* Ethnographic fieldwork with users, developers, and bystanders
+<p>
+Authors are invited to submit 2- to 6-page position papers in the CHI Extended Abstracts Format, on or before February 11, 2020; at: <a href="https://easychair.org/conferences/?conf=ihdi2020">easychair.org/conferences/?conf=ihdi2020</a>
+</p>
 
-Authors are invited to submit 2- to 6-page position papers in the CHI Extended Abstracts Format, on or before February 11, 2020; at: [easychair.org/conferences/?conf=ihdi2020](https://easychair.org/conferences/?conf=ihdi2020)
+<p>
+The proceedings will be stored on the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a>, indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be invited for publication in a special issue of the THRI journal.
+</p>
 
-The proceedings will be stored on the open archive [HAL](https://hal.archives-ouvertes.fr/), indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be invited for publication in a special issue of the THRI journal.
-
+<p>
 At least one author must attend. Attendees must register for the workshop and at least one day of CHI 2020.
-
+</p>
+	
 </span>
 				
 				<ul class="actions">
