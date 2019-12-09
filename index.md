@@ -201,7 +201,7 @@ At least one author must attend. Attendees must register for the workshop and at
 
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/ladelfa.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/mueller.jpg" alt="" /></span>
 <strong>Florian 'Floyd' Mueller</strong> is a Professor at RMIT University, where he directs the <a href="https://exertiongameslab.org/">Exertion Games Lab</a>. His research straddles the intersection of human-computer interaction, the body, and gaming; including the use of drones in exercise and recreation.
 </p>
 </div>
