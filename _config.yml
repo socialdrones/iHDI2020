@@ -2,7 +2,7 @@
 title: iHDI
 subtitle: at CHI 2020
 description: Interdisciplinary Workshop on Human-Drone Interaction
-baseurl: "/workshop-website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 
 # homepage tiles
