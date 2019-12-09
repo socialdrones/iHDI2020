@@ -41,7 +41,7 @@ Current HDI research field builds on a diverse motivations and methodologies, wi
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Call for Papers 
+					<h3>Call for Papers</h3>
 				</header>
 
 <span markdown="1">
