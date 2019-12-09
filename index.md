@@ -67,7 +67,7 @@ The proceedings will be stored on the open archive [HAL](https://hal.archives-ou
 At least one author must attend. Attendees must register for the workshop and at least one day of CHI 2020.
 				
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Submit</a></li>
 				</ul>
 			</div>
 		</div>
