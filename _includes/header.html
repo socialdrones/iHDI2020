@@ -5,23 +5,23 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
-<!-- 		<a href="#menu">Menu</a> -->
-		
-<a style="border-right: 1px solid #fff;" href="#">INTRO</a>
-<a style="border-right: 1px solid #fff;"  href="#">CfP</a>
-<a style="border-right: 1px solid #fff;"  href="#">IMPORTANT DATES</a>
-<a style="border-right: 1px solid #fff;"  href="#">PROGRAM</a>
-<a style="border-right: 1px solid #fff;"  href="#">PROCEEDINGS</a>
-<a href="#">ORGANIZERS</a>
-		
+		<a href="#menu">Menu</a>
 	</nav>
 </header>
 
 <!-- Menu -->
 
-<!-- <nav id="menu">
+<nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
+
+<li><a href="#">INTRO</a></li>
+<li><a href="#">CfP</a></li>
+<li><a href="#">IMPORTANT DATES</a></li>
+<li><a href="#">PROGRAM</a></li>
+<li><a href="#">PROCEEDINGS</a></li>
+<li><a href="#">ORGANIZERS</a></li>
+
+<!--         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
@@ -30,10 +30,11 @@
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
-		{% endfor %}
+		{% endfor %} -->
+
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
 		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
-</nav> -->
+</nav>
