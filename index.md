@@ -39,13 +39,13 @@ Current HDI research field builds on a diverse motivations and methodologies, wi
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
-			<div class="inner" markdown="1">
-<!-- 				<header class="major">
+			<div class="inner">
+				<header class="major">
 					<h3>Call for Papers 
-				</header> -->
+				</header>
 
-### Call for Papers {: .major}
-				
+<span markdown="1">
+
 Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications such as exercise, companionship, and tangible user interfaces are active research topics within the CHI community.
 
 Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines – design, engineering, social sciences, and humanities – is essential. To this end, the Interdisciplinary Workshop on Human-Drone Interaction (iHDI) aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.
@@ -65,6 +65,8 @@ Authors are invited to submit 2- to 6-page position papers in the CHI Extended A
 The proceedings will be stored on the open archive [HAL](https://hal.archives-ouvertes.fr/), indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be invited for publication in a special issue of the THRI journal.
 
 At least one author must attend. Attendees must register for the workshop and at least one day of CHI 2020.
+
+</span>
 				
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Submit</a></li>
