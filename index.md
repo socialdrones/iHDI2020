@@ -100,7 +100,7 @@ We seek high quality contributions exploring HDI from a plethora of perspectives
 <div class="6u 12u$(medium)">
 
 <p>
-Authors are invited to submit 2- to 6-page position papers in the CHI Extended Abstracts Format, on or before February 11, 2020; at: <a href="https://easychair.org/conferences/?conf=ihdi2020">easychair.org/conferences/?conf=ihdi2020</a>
+Authors are invited to submit position papers, up to 6 pages (including references) in the <a href="https://chi2020.acm.org/authors/chi-proceedings-format/">CHI Extended Abstracts Format</a>, on or before 11 February 2020, at: <a href="https://easychair.org/conferences/?conf=ihdi2020">easychair.org/conferences/?conf=ihdi2020</a>
 </p>
 
 <p>
