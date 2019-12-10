@@ -1,5 +1,5 @@
 ---
-title: "iHDI: Interdisciplinary Workshop on Human-Drone Interaction"
+title: "iHDI 2020: Interdisciplinary Workshop on Human-Drone Interaction"
 layout: landing
 description: "CHI 2020 | Honolulu, HI, USA | April 25/26 (TBA)"
 image: assets/images/graduation.jpg
