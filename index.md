@@ -6,12 +6,11 @@ image: assets/images/graduation.jpg
 nav-menu: false
 ---
 
-<!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
+
+<section>
+<div class="inner">
 
 <div class="row">
 	
@@ -24,8 +23,10 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <strong>Human-drone interaction (HDI)</strong> is becoming an ubiquitous topic in daily life, and a rising research topic within CHI. Knowledge from many disciplines &ndash; design, engineering, social sciences, humanities... &ndash; can inform the design and study of HDI, making interdisciplinary communication essential. <strong>iHDI 2020</strong> aims to bring together diverse perspectives, advancing HDI and its scholarship through discussions and activities involving an assortment of research and design approaches. The workshop intends to serve as a platform for an enduring community, towards results that <em>take off</em>.
 </p>
 
-</div>
+</div> <!-- col -->
 <div class="6u 12u$(medium)">
+	
+<div class="box">
 
 <header class="major">
 <h3>Important Dates and Links</h3>
@@ -49,20 +50,23 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 	<li><strong>25/26 April 2020:</strong> Workshop</li>
 </ul>
 
-</div>
+</div> <!-- .box -->
+
+</div> <!-- col -->
 </div> <!-- .row -->
 
-	</div>
+</div>  <!-- .inner -->
 </section>
 
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
-		</a>
-		<div class="content">
-			<div class="inner">
+
+<section>
+			
+<a href="generic.html" class="image">
+	<img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
+</a>
+	
+<div class="content">
+<div class="inner">
 		
 <header class="major">
 <h3>Call for Papers</h3>
@@ -90,7 +94,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <li>Ethnographic fieldwork with users, developers, and bystanders</li>
 </ul>
 
-</div>
+</div><!-- col -->
 <div class="6u 12u$(medium)">
 
 <p>
@@ -111,12 +115,15 @@ At least one author must attend. Attendees must register for the workshop and at
 <li><a href="https://easychair.org/conferences/?conf=ihdi2020" class="button">Submit</a></li>
 </ul>
 
-</div>
+</div><!-- col -->
 </div><!-- .row -->
-			</div>
-		</div>
-	</section>
+</div><!-- .inner -->
+</div><!-- .content -->
+</section>
+	
+	
 	<section>
+	
 		<a href="generic.html" class="image">
 			<img src="assets/images/vine.jpg" alt="" data-position="top center" style="object-fit: cover; height: 100%" />
 		</a>
