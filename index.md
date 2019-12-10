@@ -174,7 +174,7 @@ At least one author must attend. Attendees must register for the workshop and at
 			<div class="inner">
 			
 <header class="major">
-	<h3>Program</h3>
+	<h3>Proceedings</h3>
 </header>
 
 <p>TBA</p>
@@ -190,23 +190,6 @@ At least one author must attend. Attendees must register for the workshop and at
 	</section>
 </section>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		
-<header class="major">
-<h2>Proceedings</h2>
-</header>
-
-<p>TBA</p>
-
-<!--
-<ul class="actions">
-<li><a href="generic.html" class="button next">Get Started</a></li>
-</ul>
--->
-	</div>
-</section>
 
 <section>
 	<div class="inner">
