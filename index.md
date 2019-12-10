@@ -212,14 +212,14 @@ A variety of post-workshop academic publications will beconsidered based on the 
 <div class="6u 12u$(medium)">
 <p>
 <span class="image left"><img src="assets/images/baytas.jpg" alt="" /></span>
-<strong>Mehmet Aydın Baytaş</strong> completed his PhD within Koç University's interdisciplinary Design, Technology and Society program. He is a Marie Skłodowska-Curie Research Fellow at Qualisys AB, and a research affiliate at Chalmers University of Technology's t2i Lab. His current research addresses the design space of autonomous drones operating in human-populated environments.
+<strong>Mehmet Aydın Baytaş</strong> received his PhD from Koç University's interdisciplinary Design, Technology and Society program. He is a Marie Skłodowska-Curie Research Fellow at <a href="https://www.qualisys.com/">Qualisys AB</a>, and a research affiliate at Chalmers University of Technology's <a href="http://t2i.se/">t2i Lab</a>. His current research addresses the design space of autonomous drones operating in human-populated environments.
 </p>
 </div>
 
 <div class="6u 12u$(medium)">
 <p>
 <span class="image left"><img src="assets/images/funk.jpg" alt="" /></span>
-<strong>Markus Funk</strong> is a senior user experience researcher at Cerence. Inc, Germany. Markus is an expert in human-drone interaction and flying user interfaces.
+<strong>Markus Funk</strong> is a senior user experience researcher at <a href="https://www.cerence.com/">Cerence Inc</a>, Germany. Markus is an expert in human-drone interaction and flying user interfaces.
 </p>
 </div>
 
@@ -253,7 +253,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 <div class="6u 12u$(medium)">
 <p>
 <span class="image left"><img src="assets/images/mueller.jpg" alt="" /></span>
-<strong>Florian 'Floyd' Mueller</strong> is a Professor at RMIT University, where he directs the <a href="https://exertiongameslab.org/">Exertion Games Lab</a>. His research straddles the intersection of human-computer interaction, the body, and gaming; including the use of drones in exercise and recreation.
+<strong>Florian 'Floyd' Mueller</strong> is a Professor at Monash University, where he directs the <a href="https://exertiongameslab.org/">Exertion Games Lab</a>. His research straddles the intersection of human-computer interaction, the body, and gaming; including the use of drones in exercise and recreation.
 </p>
 </div>
 
