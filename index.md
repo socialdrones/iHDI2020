@@ -265,6 +265,20 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 </div>
 
+<div class="row">
+
+<header class="major">
+<h2>Past Related Workshops</h2>
+</header>
+
+<ul>
+<li><a href="http://hdi.famnit.upr.si/"><em>iHDI: First International Workshop on Human-Drone Interaction</em> at ACM CHI 2019</a></li>
+<li><a href="https://www.iri.upc.edu/workshops/hriuav18/"><em>Human-Robot Interaction with UAVs: Challenges and Frontiers</em> at IEEE ICRA 2018</a></li>
+<li><a href="http://cse.unl.edu/~bduncan/rss/index.html"><em>Human-Robot Interaction for Small and Personal Unmanned Aerial Vehicles</em> at RSS 2016</a></li>
+</ul>
+
+</div>
+
 <!--
 <ul class="actions">
 <li><a href="generic.html" class="button next">Get Started</a></li>
