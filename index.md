@@ -165,7 +165,13 @@ At least one author must attend. Attendees must register for the workshop and at
 <h3>Post-Workshop Plans</h3>
 </header>
 				
-<p>TBA</p>
+<p>
+Workshop papers will be stored on the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a> (indexed by Google Scholar). Papers will also be listed here on the workshop website, with links to the HAL reposiory. A brief report on workshop activities, as well as selected photos and descriptions of outputs from the hands-on session (subject to creators’ permissions) will be published here on the workshop website. We also aim to explore other online platforms for continuous knowledge sharing, based on the preferences of the community. 
+</p>
+
+<p>
+A variety of post-workshop academic publications will beconsidered based on the content of the accepted submissions and the outputs of workshop sessions. These include but are not limited to: a report to be submitted to a venue that is relevant to the CHI community (e.g. <a href="https://interactions.acm.org/">ACM Interactions</a>), full paper submissions to relevant SIGCHI conferences based on synergies between research efforts presented at the workshop, and scoping a special issue of ajournal based on research agendas articulated at the workshop. (The editors-in-chief of <a href="https://thri.acm.org/">ACM THRI</a>have been contacted regarding a HDI special issue.)
+</p>
 
 </div>
 </div> <!-- .row -->
