@@ -64,10 +64,18 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		
+<div class="row">
+	<div class="4u 12u$(medium)">
+
+		<span class="image fit">
 			<img src="assets/images/clouds.jpg" alt="" data-position="center center" />
+		</span>
 		<div class="content">
 			<div class="inner">
-				
+	</div>
+<div class="8u 12u$(medium)">
+		
 <header class="major">
 <h3>Call for Papers</h3>
 </header>
@@ -119,6 +127,8 @@ At least one author must attend. Attendees must register for the workshop and at
 <li><a href="https://easychair.org/conferences/?conf=ihdi2020" class="button">Submit</a></li>
 </ul>
 
+</div>
+</div><!-- .row -->
 </div>
 </div><!-- .row -->
 			</div>
