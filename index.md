@@ -46,6 +46,12 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 			</ul>
 	</li>
 	<li><strong>28 February 2020:</strong> Authors notified of acceptance</li>
+	<li>
+		<strong>26 May 2020:</strong> Proceedings published
+		<ul style="margin-bottom: 0;">
+			<li>Proceedings hosted at: <a href="#">TBA</a></li>
+		</ul>
+	</li>
 	<li><strong>26/26 May 2020:</strong> Workshop</li>
 </ul>
 
