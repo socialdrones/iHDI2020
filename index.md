@@ -54,8 +54,7 @@ Drones are becoming ubiquitous. Current applications include logistics, construc
 Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines &ndash; design, engineering, social sciences, and humanities &ndash; is essential. To this end, the <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong> aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.
 </p>
 
-</div>
-<div class="6u 12u$(medium)">
+
 	
 <p>
 We seek high quality contributions exploring HDI from a plethora of perspectives, including but not limited to: empirical research, engineering, design, theory, art, and opinions. Examples for topics can include, but are not limited to, the following:
@@ -72,6 +71,7 @@ We seek high quality contributions exploring HDI from a plethora of perspectives
 </ul>
 
 </div>
+<div class="6u 12u$(medium)">
 
 <p>
 Authors are invited to submit 2- to 6-page position papers in the CHI Extended Abstracts Format, on or before February 11, 2020; at: <a href="https://easychair.org/conferences/?conf=ihdi2020">easychair.org/conferences/?conf=ihdi2020</a>
@@ -84,12 +84,13 @@ The proceedings will be stored on the open archive <a href="https://hal.archives
 <p>
 At least one author must attend. Attendees must register for the workshop and at least one day of CHI 2020.
 </p>
-
-</div><!-- .row -->
 					
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Submit</a></li>
-				</ul>
+<ul class="actions">
+<li><a href="generic.html" class="button">Submit</a></li>
+</ul>
+
+</div>
+</div><!-- .row -->
 			</div>
 		</div>
 	</section>
