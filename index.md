@@ -18,6 +18,10 @@ nav-menu: false
 <h2>Sed amet aliquam</h2>
 </header>
 -->
+
+<div class="row">
+	
+<div class="6u 12u$(medium)">
 		
 <p>
 The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong> is a gathering for scholars of <em>human-drone interaction (HDI)</em> and related subjects, co-located with the <a href="https://chi2020.acm.org/">2020 CHI Conference on Human Factors in Computing Systems</a>.
@@ -25,6 +29,27 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong
 <p>
 <strong>Human-drone interaction (HDI)</strong> is becoming an ubiquitous topic in daily life, and a rising research topic within CHI. Knowledge from a wealth of disciplines can inform the design and scholarship of HDI, and interdisciplinary communication -- between design, engineering, social sciences, and humanities -- is essential to this end. The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong> aims to bring together diverse perspectives; advancing HDI and its scholarship through a rich variety of participants and hands-on activities where an assortment of research, design, and prototyping methods are deployed. The workshop intends to serve as a platform for a diverse and enduring community that continuously builds on each other's methods and philosophies, towards results that <em>take off</em>.
 </p>
+
+</div>
+<div class="6u 12u$(medium)">
+
+<h3>Important Dates and Links</h3>
+</header>
+				
+<ul>
+	<li>
+		<strong>11 February 2020:<strong> Submissions due
+			<ul>
+				<li>Submit at: <a href="#">TBA</a></li>
+				<li>Submission format: <a href="https://chi2020.acm.org/authors/chi-proceedings-format/">CHI Extended Abstracts Format</a></li>
+			</ul>
+	</li>
+	<li><strong>28 February 2020:<strong> Authors notified of acceptance</li>
+	<li><strong>26/26 May 2020:<strong> Workshop</li>
+</ul>
+
+</div>
+</div> <!-- .row -->
 
 	</div>
 </section>
