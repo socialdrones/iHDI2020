@@ -64,17 +64,9 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		
-<div class="row">
-	<div class="4u 12u$(medium)">
-
-		<span class="image fit">
-			<img src="assets/images/clouds.jpg" alt="" data-position="center center" />
-		</span>
-	</div>
-<div class="8u 12u$(medium)">
-
-
+		<a href="generic.html" class="image">
+			<img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 		
@@ -180,7 +172,7 @@ At least one author must attend. Attendees must register for the workshop and at
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -191,11 +183,6 @@ At least one author must attend. Attendees must register for the workshop and at
 
 <p>TBA</p>
 
-<!-- 
-<ul class="actions">
-<li><a href="generic.html" class="button">Learn more</a></li>
-</ul> 
--->
 				
 			</div>
 		</div>
