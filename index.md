@@ -208,6 +208,19 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 
 <section>
+<div class="inner">
+
+<header class="major">
+<h3>Keynote</h3>
+</header>
+
+<p>TBA</p>
+
+</div><!-- .inner -->
+</section>
+
+
+<section>
 	<div class="inner">
 		
 <header class="major">
@@ -270,11 +283,12 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 </section>
 
+
 <section>
 	<div class="inner">
 
 <header class="major">
-<h2>Past Related Workshops</h2>
+<h3>Past Related Workshops</h3>
 </header>
 
 <ul>
