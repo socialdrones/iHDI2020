@@ -2,7 +2,7 @@
 title: "iHDI: Interdisciplinary Workshop on Human-Drone Interaction"
 layout: landing
 description: "CHI 2020 | Honolulu, HI, USA | April 25/26 (TBA)"
-image: assets/images/pic07.jpg
+image: assets/images/graduation.jpg
 nav-menu: false
 ---
 
@@ -12,12 +12,6 @@ nav-menu: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-
-<!--
-<header class="major">
-<h2>Sed amet aliquam</h2>
-</header>
--->
 
 <div class="row">
 	
@@ -170,7 +164,7 @@ At least one author must attend. Attendees must register for the workshop and at
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
+			<img src="assets/images/flight.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
 		</a>
 		<div class="content">
 			<div class="inner">
