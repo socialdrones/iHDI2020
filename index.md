@@ -106,7 +106,7 @@ We seek high quality contributions exploring HDI from a plethora of perspectives
 <div class="6u 12u$(medium)">
 
 <p>
-Authors are invited to submit position papers, up to 6 pages (including references) in the <a href="https://chi2020.acm.org/authors/chi-proceedings-format/">CHI Extended Abstracts Format</a>, on or before 11 February 2020, at: <a href="https://easychair.org/conferences/?conf=ihdi2020">easychair.org/conferences/?conf=ihdi2020</a>
+The submission deadline is 11 February 2020. Authors are invited to submit position papers, up to 6 pages (including references) in the <a href="https://chi2020.acm.org/authors/chi-proceedings-format/">CHI Extended Abstracts Format</a>, at: <a href="https://easychair.org/conferences/?conf=ihdi2020">easychair.org/conferences/?conf=ihdi2020</a>
 </p>
 
 <p>
@@ -118,7 +118,7 @@ At least one author must attend. Attendees must register for the workshop and at
 </p>
 					
 <ul class="actions">
-<li><a href="generic.html" class="button">Submit</a></li>
+<li><a href="https://easychair.org/conferences/?conf=ihdi2020" class="button">Submit</a></li>
 </ul>
 
 </div>
@@ -134,13 +134,31 @@ At least one author must attend. Attendees must register for the workshop and at
 			<div class="inner">
 			
 <header class="major">
-<h3>Important Dates and Links</h3>
+<h3>Workshop Program*</h3>
 </header>
 				
 <ul>
-	<li>asdf</li>
-	<li>asdf</li>
+	<li><strong>15 min</strong> Opening</li>
+	<li><strong>15 min</strong> Introduction and Ice-breaking</li>
 </ul>
+<ul>
+	<li><strong>20 min</strong> Keynote</li>
+	<li><strong>100 min</strong> Presentations and Posters</li>
+	<li><strong>30 min</strong> Break</li>
+</ul>
+<ul>
+	<li><strong>120 min</strong> Prototyping Activities</li>
+	<li><strong>20 min</strong> Break</li>
+</ul>
+<ul>
+	<li><strong>40 min</strong> Prototype Presentations and Discussin</li>
+	<li><strong>30 min</strong> Summary and Closing</li>
+</ul>
+<ul>
+	<li><strong>Afterwards</strong> Dinner and Networking</li>
+</ul>
+
+<p><small>* Tentative</small></p>
 	
 <!--
 <ul class="actions">
