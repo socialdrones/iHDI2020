@@ -147,9 +147,9 @@ At least one author must attend. Attendees must register for the workshop and at
 <strong>15 min</strong> Introduction and Ice-breaking<br>
 <strong>20 min</strong> Keynote<br>
 <strong>100 min</strong> Presentations and Posters<br>
-<strong><em>30 min</strong> Break</em><br>
+<em><strong>30 min</strong> Break</em><br>
 <strong>120 min</strong> Prototyping Activities<br>
-<strong><em>20 min</strong> Break</em><br>
+<em><strong>20 min</strong> Break</em><br>
 <strong>40 min</strong> Prototype Presentations and Discussin<br>
 <strong>30 min</strong> Summary and Closing<br>
 <strong>Afterwards</strong> Dinner and Networking
