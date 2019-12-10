@@ -261,6 +261,8 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 </div>
 
+</div>
+
 </section>
 
 <section>
@@ -275,8 +277,6 @@ A variety of post-workshop academic publications will beconsidered based on the 
 <li><a href="https://www.iri.upc.edu/workshops/hriuav18/"><em>Human-Robot Interaction with UAVs: Challenges and Frontiers</em> at IEEE ICRA 2018</a></li>
 <li><a href="http://cse.unl.edu/~bduncan/rss/index.html"><em>Human-Robot Interaction for Small and Personal Unmanned Aerial Vehicles</em> at RSS 2016</a></li>
 </ul>
-
-</div>
 
 	</div>
 </section>
