@@ -3,38 +3,5 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-	<nav>
-		<a href="#menu">MENU</a>
-	</nav>
+	<a href="{{ "" | absolute_url }}/" class="logo"><strong>iHDI</strong> <span>at CHI 2020</span></a>
 </header>
-
-<!-- Menu -->
-
-<nav id="menu">
-	<ul class="links">
-
-<li><a href="#intro">INTRO</a></li>
-<li><a href="#cfp">CALL FOR PAPERS</a></li>
-<li><a href="#dates">IMPORTANT DATES</a></li>
-<li><a href="#program">PROGRAM</a></li>
-<li><a href="#proceedings">PROCEEDINGS</a></li>
-<li><a href="#organizers">ORGANIZERS</a></li>
-
-<!--         {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %} -->
-
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
-	</ul>
-</nav>
