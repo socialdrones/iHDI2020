@@ -123,8 +123,6 @@ At least one author must attend. Attendees must register for the workshop and at
 
 </div>
 </div><!-- .row -->
-</div>
-</div><!-- .row -->
 			</div>
 		</div>
 	</section>
