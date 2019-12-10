@@ -72,19 +72,13 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 	
 <div class="6u 12u$(medium)">
 		
-<p>
-Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications like exercise, companionship, and tangible user interfaces are active research topics within the CHI community.
-</p>
+<p>Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications like exercise, companionship, and tangible user interfaces are active research topics within the CHI community.</p>
 				
-<p>
-Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines (design, engineering, social sciences, humanities...) is essential. To this end, the <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</strong> aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.
-</p>
-
-
+<p>Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines (design, engineering, social sciences, humanities...) is essential. To this end, the <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</strong> aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.</p>
 	
-<p>
-We seek high quality contributions exploring HDI from a plethora of perspectives, including but not limited to: empirical research, engineering, design, theory, art, and opinions. Examples for topics can include, but are not limited to, the following:
-</p>
+<p>We seek high quality contributions exploring HDI from a plethora of perspectives, including but not limited to: empirical research, engineering, design, theory, art, and opinions.</p>
+
+<p>Examples for topics include, but are not limited to, the following:</p>
 
 <ul>
 <li>Novel HDI experiences</li>
@@ -104,12 +98,14 @@ The submission deadline is 11 February 2020. Authors are invited to submit posit
 </p>
 
 <p>
-The proceedings will be stored on the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a>, indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be invited for publication in a special issue of the <a href="https://thri.acm.org/">THRI</a> journal.
+The proceedings will be stored on the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a>, indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be considered for publication in a special issue of the <a href="https://thri.acm.org/">THRI</a> journal.
 </p>
 
 <p>
 At least one author must attend. Attendees must register for the workshop and at least one day of CHI 2020.
 </p>
+
+<p>Workshop website: <a href="https://socialdrones.github.io/ihdi2020/">socialdrones.github.io/ihdi2020/</a></p>
 					
 <ul class="actions">
 <li><a href="https://easychair.org/conferences/?conf=ihdi2020" class="button">Submit</a></li>
