@@ -71,10 +71,12 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 		<span class="image fit">
 			<img src="assets/images/clouds.jpg" alt="" data-position="center center" />
 		</span>
-		<div class="content">
-			<div class="inner">
 	</div>
 <div class="8u 12u$(medium)">
+
+
+		<div class="content">
+			<div class="inner">
 		
 <header class="major">
 <h3>Call for Papers</h3>
