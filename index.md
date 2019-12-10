@@ -164,7 +164,7 @@ Workshop papers will be stored on the open archive <a href="https://hal.archives
 </p>
 
 <p>
-A variety of post-workshop academic publications will beconsidered based on the content of the accepted submissions and the outputs of workshop sessions. These include but are not limited to: a report to be submitted to a venue that is relevant to the CHI community (e.g. <a href="https://interactions.acm.org/">ACM Interactions</a>), full paper submissions to relevant SIGCHI conferences based on synergies between research efforts presented at the workshop, and scoping a special issue of ajournal based on research agendas articulated at the workshop. (The editors-in-chief of <a href="https://thri.acm.org/">ACM THRI</a>have been contacted regarding a HDI special issue.)
+A variety of post-workshop academic publications will beconsidered based on the content of the accepted submissions and the outputs of workshop sessions. These include but are not limited to: a report to be submitted to a venue that is relevant to the CHI community (e.g. <a href="https://interactions.acm.org/">ACM Interactions</a>), full paper submissions to relevant SIGCHI conferences based on synergies between research efforts presented at the workshop, and scoping a special issue of ajournal based on research agendas articulated at the workshop. (The editors-in-chief of <a href="https://thri.acm.org/">ACM THRI</a> have been contacted regarding a HDI special issue.)
 </p>
 
 </div>
