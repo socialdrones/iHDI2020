@@ -34,7 +34,6 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong
 <div class="6u 12u$(medium)">
 
 <h3>Important Dates and Links</h3>
-</header>
 				
 <ul>
 	<li>
