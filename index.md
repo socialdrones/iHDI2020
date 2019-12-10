@@ -24,10 +24,10 @@ nav-menu: false
 <div class="6u 12u$(medium)">
 		
 <p>
-The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong> is a gathering for scholars of <em>human-drone interaction (HDI)</em> and related subjects, co-located with the <a href="https://chi2020.acm.org/">2020 CHI Conference on Human Factors in Computing Systems</a>.
+The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</strong> is a gathering for scholars of <em>human-drone interaction (HDI)</em> and related subjects, co-located with the <a href="https://chi2020.acm.org/">2020 CHI Conference on Human Factors in Computing Systems</a>.
 </p>
 <p>
-<strong>Human-drone interaction (HDI)</strong> is becoming an ubiquitous topic in daily life, and a rising research topic within CHI. Knowledge from a wealth of disciplines can inform the design and scholarship of HDI, and interdisciplinary communication -- between design, engineering, social sciences, and humanities -- is essential to this end. The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong> aims to bring together diverse perspectives; advancing HDI and its scholarship through a rich variety of participants and hands-on activities where an assortment of research, design, and prototyping methods are deployed. The workshop intends to serve as a platform for a diverse and enduring community that continuously builds on each other's methods and philosophies, towards results that <em>take off</em>.
+<strong>Human-drone interaction (HDI)</strong> is becoming an ubiquitous topic in daily life, and a rising research topic within CHI. Knowledge from many disciplines can inform the design and study of HDI, making interdisciplinary communication -- between design, engineering, social sciences, and humanities -- essential. <strong>iHDI 2020</strong> aims to bring together diverse perspectives, advancing HDI and its scholarship through a variety of discussions and hands-on activities involving an assortment of research and design methods. The workshop intends to serve as a platform for an enduring community that continuously builds on each other's methods and philosophies towards results that <em>take off</em>.
 </p>
 
 </div>
