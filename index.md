@@ -126,7 +126,11 @@ At least one author must attend. Attendees must register for the workshop and at
 		</a>
 		<div class="content">
 			<div class="inner">
-			
+
+<div class="row">
+	
+<div class="6u 12u$(medium)">
+		
 <header class="major">
 <h3>Workshop Program*</h3>
 </header>
@@ -153,6 +157,20 @@ At least one author must attend. Attendees must register for the workshop and at
 </ul>
 
 <p><small>* Tentative</small></p>
+
+</div>
+<div class="6u 12u$(medium)">
+
+<header class="major">
+<h3>Post-Workshop Plans</h3>
+</header>
+				
+<p>TBA</p>
+
+</div>
+</div> <!-- .row -->
+			
+
 	
 <!--
 <ul class="actions">
