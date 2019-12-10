@@ -77,7 +77,7 @@ Drones are becoming ubiquitous. Current applications include logistics, construc
 </p>
 				
 <p>
-Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines &ndash; design, engineering, social sciences, and humanities &ndash; is essential. To this end, the <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong> aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.
+Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines (design, engineering, social sciences, humanities...) is essential. To this end, the <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI)</strong> aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.
 </p>
 
 
