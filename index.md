@@ -74,7 +74,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 		
 <p>Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications like exercise, companionship, and tangible user interfaces are active research topics within the CHI community.</p>
 				
-<p>Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines (design, engineering, social sciences, humanities...) is essential. To this end, the <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</strong> aims to intertwine diverse perspectives, as a platform for researchers and practitioners learning from each other.</p>
+<p>Knowledge from a wealth of disciplines can inform new drone applications; and communication between different disciplines (design, engineering, social sciences, humanities...) is essential. To this end, the <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</strong> aims to intertwine diverse perspectives, as a platform for researchers and practitioners who learn from each other.</p>
 	
 <p>We seek high quality contributions exploring HDI from a plethora of perspectives, including but not limited to: empirical research, engineering, design, theory, art, and opinions.</p>
 
