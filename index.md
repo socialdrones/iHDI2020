@@ -142,22 +142,18 @@ At least one author must attend. Attendees must register for the workshop and at
 </header>
 				
 
-<p><strong>15 min</strong> Opening<br>
-<strong>15 min</strong> Introduction and Ice-breaking</p>
-
-<p><strong>20 min</strong> Keynote<br>
-<strong>100 min</strong> Presentations and Posters</p>
-
-<p><strong>30 min</strong> Break</p>
-
-<p><strong>120 min</strong> Prototyping Activities</p>
-
-<p><strong>20 min</strong> Break</p>
-
-<p><strong>40 min</strong> Prototype Presentations and Discussin<br>
-<strong>30 min</strong> Summary and Closing</p>
-
-<p><strong>Afterwards</strong> Dinner and Networking</p>
+<p>
+<strong>15 min</strong> Opening<br>
+<strong>15 min</strong> Introduction and Ice-breaking<br>
+<strong>20 min</strong> Keynote<br>
+<strong>100 min</strong> Presentations and Posters<br>
+<strong><em>30 min</strong> Break</em><br>
+<strong>120 min</strong> Prototyping Activities<br>
+<strong><em>20 min</strong> Break</em><br>
+<strong>40 min</strong> Prototype Presentations and Discussin<br>
+<strong>30 min</strong> Summary and Closing<br>
+<strong>Afterwards</strong> Dinner and Networking
+</p>
 
 
 <p><small>* Tentative</small></p>
