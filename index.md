@@ -64,9 +64,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
+			<img src="assets/images/clouds.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				
