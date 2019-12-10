@@ -1,7 +1,7 @@
 # site settings
-title: iHDI
-subtitle: at CHI 2020
-description: Interdisciplinary Workshop on Human-Drone Interaction
+title: "iHDI 2020: Interdisciplinary Workshop on Human-Drone Interaction"
+subtitle: Part of the 2020 ACM CHI Conference on Human Factors in Computing Systems (CHI '20)
+description: "iHDI 2020: Interdisciplinary Workshop on Human-Drone Interaction / Part of CHI '20 / April 2019 / Honolulu, HI, USA"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 
