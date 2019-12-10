@@ -73,7 +73,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <div class="6u 12u$(medium)">
 		
 <p>
-Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications such as exercise, companionship, and tangible user interfaces are active research topics within the CHI community.
+Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications like exercise, companionship, and tangible user interfaces are active research topics within the CHI community.
 </p>
 				
 <p>
