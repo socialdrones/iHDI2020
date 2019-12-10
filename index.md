@@ -261,7 +261,10 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 </div>
 
-<div class="row">
+</section>
+
+<section>
+	<div class="inner">
 
 <header class="major">
 <h2>Past Related Workshops</h2>
@@ -275,11 +278,6 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 </div>
 
-<!--
-<ul class="actions">
-<li><a href="generic.html" class="button next">Get Started</a></li>
-</ul>
--->
 	</div>
 </section>
 
