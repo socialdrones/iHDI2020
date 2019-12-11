@@ -36,7 +36,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 	<li>
 		<strong>11 February 2020:</strong> Submissions due
 			<ul style="margin-bottom: 0;">
-				<li>Submit at: <a href="#">TBA</a></li>
+				<li>Submit at: <a href="https://easychair.org/conferences/?conf=ihdi2020">easychair.org/conferences/?conf=ihdi2020</a></li>
 				<li>Submission format: <a href="https://chi2020.acm.org/authors/chi-proceedings-format/">CHI Extended Abstracts Format</a></li>
 			</ul>
 	</li>
