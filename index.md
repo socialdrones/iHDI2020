@@ -255,7 +255,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/ladelfa.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/garcia.jpg" alt="" /></span>
 <strong><a href="http://recherche.enac.fr/~jeremie.garcia/">Jérémie Garcia</a></strong> is an Assistant Professor at ENAC, Toulouse, France. He is interested in designing interactions to author and operate automated systems including drones and air traffic control.
 </p>
 </div>
