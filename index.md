@@ -268,14 +268,14 @@ address = {New York, NY, USA},
 	
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/baytas.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/baytas.jpg" alt="Mehmet Aydın Baytaş" /></span>
 <strong><a href="https://baytas.net/">Mehmet Aydın Baytaş</a></strong> received his PhD from Koç University's interdisciplinary Design, Technology and Society program. He is a Marie Skłodowska-Curie Research Fellow at <a href="https://www.qualisys.com/">Qualisys AB</a>, and a research affiliate at Chalmers University of Technology's <a href="http://t2i.se/">t2i Lab</a>. His current research addresses the design space of autonomous drones operating in human-populated environments.
 </p>
 </div>
 
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/funk.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/funk.jpg" alt="Markus Funk" /></span>
 <strong><a href="http://www.makufunk.de/">Markus Funk</a></strong> is a senior user experience researcher at <a href="https://www.cerence.com/">Cerence Inc</a>, Germany. Markus is an expert in human-drone interaction and flying user interfaces.
 </p>
 </div>
@@ -285,14 +285,14 @@ address = {New York, NY, USA},
 
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/ljungblad.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/ljungblad.jpg" alt="Sara Ljungblad" /></span>
 <strong><a href="https://cse.gu.se/english/about/interactiondesign/faculty/sara-ljungblad/">Sara Ljungblad</a></strong> is an Assistant Professor at the University of Gothenburg and Chalmers University of Technology. She is interested in inclusive design methods and has done several long-term studies understand experiences of robotic products in everyday settings. She is currently funded by <a href="https://wasp-hs.org/projects/the-rise-of-social-drones-a-constructive-design-research-agenda/">WASP-HS</a> to conduct constructive and critical design research on "social drones."
 </p>
 </div>
 
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/garcia.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/garcia.jpg" alt="Jérémie Garcia" /></span>
 <strong><a href="http://recherche.enac.fr/~jeremie.garcia/">Jérémie Garcia</a></strong> is an Assistant Professor at ENAC, Toulouse, France. He is interested in designing interactions to author and operate automated systems including drones and air traffic control.
 </p>
 </div>
@@ -302,21 +302,33 @@ address = {New York, NY, USA},
 
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/ladelfa.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/ladelfa.jpg" alt="Joseph La Delfa" /></span>
 <strong><a href="https://www.cafeciaojoe.com/">Joseph La Delfa</a></strong> is a PhD student in the School of Design at RMIT University. His research is focused on bodily awareness and reflection through HDI. His experiences in product design and engineering, from concept to production and maintenance, covers industries including glassware, hand tools, furniture, and service design.
 </p>
 </div>
 
 <div class="6u 12u$(medium)">
 <p>
-<span class="image left"><img src="assets/images/mueller.jpg" alt="" /></span>
+<span class="image left"><img src="assets/images/mueller.jpg" alt="Florian 'Floyd' Mueller" /></span>
 <strong><a href="http://floydmueller.com/">Florian 'Floyd' Mueller</a></strong> is a Professor at Monash University, where he directs the <a href="https://exertiongameslab.org/">Exertion Games Lab</a>. His research straddles the intersection of human-computer interaction, the body, and gaming; including the use of drones in exercise and recreation.
 </p>
 </div>
 
-</div>
+</div> <!-- .row -->
 
-</div>
+<header class="major">
+<h3>Industry Supporters</h3>
+</header>
+
+<div class="row">
+<div class="6u 12u$(medium)">
+<span class="image fit">
+<img src="assets/images/bitcraze.png" alt="Bitcraze logo" />
+</span>
+</div><!-- col -->
+</div> <!-- .row -->
+
+</div> <!-- .inner -->
 
 </section>
 
