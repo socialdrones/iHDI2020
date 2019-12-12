@@ -181,9 +181,13 @@ A variety of post-workshop academic publications will beconsidered based on the 
 			</div>
 		</div>
 	</section>
-	
 
-<section>
+
+</section><!-- .spotlights -->
+
+
+<section>	
+
 
 <!--
 <span class="image">
@@ -215,6 +219,9 @@ A variety of post-workshop academic publications will beconsidered based on the 
 </div><!-- .inner -->
 </div><!-- .content -->
 </section>
+
+	
+<section class="spotlights">
 	
 	
 <section>
