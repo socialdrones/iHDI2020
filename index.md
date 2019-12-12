@@ -195,7 +195,6 @@ A variety of post-workshop academic publications will beconsidered based on the 
 </span>
 -->
 
-<div class="content">
 <div class="inner">
 
 <header class="major">
@@ -217,7 +216,6 @@ A variety of post-workshop academic publications will beconsidered based on the 
 </span>
 				
 </div><!-- .inner -->
-</div><!-- .content -->
 </section>
 
 	
