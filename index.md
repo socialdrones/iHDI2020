@@ -64,9 +64,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <section>
 	
 			
-<a href="generic.html" class="image">
-	<img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
-</a>
+<img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
 	
 <div class="content">
 <div class="inner">
@@ -125,11 +123,9 @@ At least one author must attend. Attendees must register for the workshop and at
 </section>
 	
 	
-	<section>
+<section>
 	
-		<a href="generic.html" class="image">
-			<img src="assets/images/vine.jpg" alt="" data-position="top center" style="object-fit: cover; height: 100%" />
-		</a>
+<img src="assets/images/vine.jpg" alt="" data-position="top center" style="object-fit: cover; height: 100%" />
 		<div class="content">
 			<div class="inner">
 
@@ -178,20 +174,33 @@ A variety of post-workshop academic publications will beconsidered based on the 
 			
 
 	
-<!--
-<ul class="actions">
-<li><a href="generic.html" class="button">Learn more</a></li>
-</ul>
--->
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/flight.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
-		</a>
-		<div class="content">
-			<div class="inner">
+	
+
+<section>
+<img src="assets/images/flight.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
+<div class="content">
+<div class="inner">
+
+<header class="major">
+<h3>Related Work</h3>
+</header>
+
+<p>Mehmet Aydin Baytas, Damla Çay, Yuchong Zhang, Mohammad Obaid, Asim Evren Yantaç, and Morten Fjeld. 2019. The Design of Social Drones: A Review of Studies on Autonomous Flyers in Inhabited Environments. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. ACM, New York, NY, USA. DOI: <a href="https://doi.org/10.1145/3290605.3300480">https://doi.org/10.1145/3290605.3300480</a></p>
+
+<p>Dante Tezza and Marvin Andujar. 2019. The State-of-the-Art of Human–Drone Interaction: A Survey. <em>IEEE Access</em> 7. IEEE. DOI: <a href="https://doi.org/10.1109/ACCESS.2019.2953900">https://doi.org/10.1109/ACCESS.2019.2953900</a></p>
+				
+</div><!-- .inner -->
+</div><!-- .content -->
+</section>
+	
+	
+<section>
+<img src="assets/images/flight.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
+<div class="content">
+<div class="inner">
 				
 <div class="row">
 	
@@ -237,9 +246,9 @@ address = {New York, NY, USA},
 </div> <!-- col -->
 </div> <!-- .row -->
 				
-			</div><!-- .inner -->
-		</div><!-- .content -->
-	</section>
+</div><!-- .inner -->
+</div><!-- .content -->
+</section>
 	
 </section><!-- .spotlights -->
 
