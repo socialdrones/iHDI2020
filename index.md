@@ -210,7 +210,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 	
 <section>
 	
-<span>
+<span class="image">
 <img src="assets/images/flight.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
 </span>
 
