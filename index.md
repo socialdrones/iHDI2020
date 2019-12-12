@@ -210,11 +210,12 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 <h4>Citation Info</h4>
 
-<p style="text-size: 62%">
+<p style="text-size: 62%;">
 Mehmet Aydın Baytaş, Markus Funk, Sara Ljungblad, Jérémie Garcia, Joseph La Delfa, and Florian ‘Floyd’ Mueller. 2020. iHDI 2020: Interdisciplinary Workshop on Human-Drone Interaction. In <em>Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19)</em>. ACM, New York, NY, USA. DOI: <a href="https://doi.org/10.1145/3334480.3375149">https://doi.org/10.1145/3334480.3375149</a>
 </p>
 
-<code style="text-size: 62%">
+<pre style="text-size: 62%;">
+<code>
 @inproceedings{Baytas:2020:IIW,
 author = {Bayta\c{s}, Mehmet Ayd{\i}n and Funk, Markus and Ljungblad, Sara and Garcia, J{\'e}r{\'e}mie and La Delfa, Joseph and Mueller, Florian `Floyd'},
 title = {iHDI 2020: Interdisciplinary Workshop on Human-Drone Interaction},
@@ -229,6 +230,7 @@ publisher = {ACM},
 address = {New York, NY, USA},
 } 
 </code>
+</pre>
 
 </div> <!-- .box -->
 
