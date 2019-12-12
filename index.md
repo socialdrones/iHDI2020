@@ -63,9 +63,10 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 
 <section>
 	
-			
+<span class="image">		
 <img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
-	
+</span>
+
 <div class="content">
 <div class="inner">
 		
@@ -124,10 +125,13 @@ At least one author must attend. Attendees must register for the workshop and at
 	
 	
 <section>
-	
+
+<span class="image">
 <img src="assets/images/vine.jpg" alt="" data-position="top center" style="object-fit: cover; height: 100%" />
-		<div class="content">
-			<div class="inner">
+</span>
+
+<div class="content">
+<div class="inner">
 
 <div class="row">
 	
@@ -180,7 +184,11 @@ A variety of post-workshop academic publications will beconsidered based on the 
 	
 
 <section>
+
+<span class="image">
 <img src="assets/images/flight.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
+</span>
+
 <div class="content">
 <div class="inner">
 
@@ -201,7 +209,11 @@ A variety of post-workshop academic publications will beconsidered based on the 
 	
 	
 <section>
+	
+<span>
 <img src="assets/images/flight.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 100%" />
+</span>
+
 <div class="content">
 <div class="inner">
 				
