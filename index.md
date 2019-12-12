@@ -14,7 +14,7 @@ nav-menu: false
 
 <div class="row">
 	
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(large)">
 		
 <p>
 The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</strong> &ndash; part of the <a href="https://chi2020.acm.org/">2020 CHI Conference on Human Factors in Computing Systems (CHI '20)</a> &ndash; is a gathering for scholars of <em>human-drone interaction (HDI)</em> and related subjects.
@@ -24,7 +24,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 </p>
 
 </div> <!-- col -->
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(large)">
 	
 <div class="box">
 
@@ -76,7 +76,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 
 <div class="row">
 	
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(large)">
 		
 <p>Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications like exercise, companionship, and tangible user interfaces are active research topics within the CHI community.</p>
 				
@@ -97,7 +97,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 </ul>
 
 </div><!-- col -->
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(large)">
 
 <p>
 The submission deadline is 11 February 2020. Authors are invited to submit position papers, up to 6 pages (including references) in the <a href="https://chi2020.acm.org/authors/chi-proceedings-format/">CHI Extended Abstracts Format</a>, at: <a href="https://easychair.org/conferences/?conf=ihdi2020">easychair.org/conferences/?conf=ihdi2020</a>
@@ -135,7 +135,7 @@ At least one author must attend. Attendees must register for the workshop and at
 
 <div class="row">
 	
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(large)">
 		
 <header class="major">
 <h3>Workshop Program*</h3>
@@ -159,7 +159,7 @@ At least one author must attend. Attendees must register for the workshop and at
 <p><small>* Tentative</small></p>
 
 </div>
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(large)">
 
 <header class="major">
 <h3>Post-Workshop Plans</h3>
@@ -233,7 +233,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 				
 <div class="row">
 	
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(large)">
 		
 <header class="major">
 	<h3>Proceedings</h3>
@@ -242,7 +242,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 <p>TBA</p>
 
 </div> <!-- col -->
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(large)">
 	
 <div class="box" style="font-size: 79%;">
 
