@@ -206,7 +206,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 </div> <!-- col -->
 <div class="6u 12u$(medium)">
 	
-<div class="box" style="font-size: 70%;">
+<div class="box" style="font-size: 79%;">
 
 <h4>Citation Info</h4>
 
