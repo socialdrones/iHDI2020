@@ -321,7 +321,7 @@ address = {New York, NY, USA},
 </header>
 
 <div class="row">
-<div class="4u 12u$(medium)">
+<div class="3u 12u$(medium)">
 <span class="image fit">
 <a href="https://www.bitcraze.io/">
 <img src="assets/images/bitcraze.png" alt="Bitcraze logo" />
