@@ -323,7 +323,9 @@ address = {New York, NY, USA},
 <div class="row">
 <div class="6u 12u$(medium)">
 <span class="image fit">
+<a href="https://www.bitcraze.io/">
 <img src="assets/images/bitcraze.png" alt="Bitcraze logo" />
+</a>
 </span>
 </div><!-- col -->
 </div> <!-- .row -->
