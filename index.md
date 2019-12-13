@@ -225,7 +225,7 @@ Mehmet Aydın Baytaş, Damla Çay, Yuchong Zhang, Mohammad Obaid, Asim Evren Yan
 
 
 <p>
-<span class="image right">		
+<span class="image left">		
 <img src="assets/images/related/funk2018.jpg" />
 </span>
 Markus Funk. 2018. Human-drone interaction: let's get ready for flying user interfaces!. <em>Interactions</em> 25, 3. DOI: <a href="https://doi.org/10.1145/3194317">https://doi.org/10.1145/3194317</a>
@@ -239,7 +239,7 @@ Matthias Hoppe, Marinus Burger, Albrecht Schmidt, and Thomas Kosch. 2019. DronOS
 </p>
 
 <p>
-<span class="image right">		
+<span class="image left">		
 <img src="assets/images/related/eriksson2019.png" />
 </span>
 Sara Eriksson, Åsa Unander-Scharin, Vincent Trichon, Carl Unander-Scharin, Hedvig Kjellström, and Kristina Höök. 2019. Dancing With Drones: Crafting Novel Artistic Expressions Through Intercorporeality. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300847">https://doi.org/10.1145/3290605.3300847</a>
@@ -253,7 +253,7 @@ Pascal Knierim, Thomas Kosch, Alexander Achberger, and Markus Funk. 2018. Flyabl
 </p>
 
 <p>
-<span class="image right">		
+<span class="image left">		
 <img src="assets/images/related/tezza2019.jpg" alt="" />
 </span>
 Dante Tezza and Marvin Andujar. 2019. The State-of-the-Art of Human–Drone Interaction: A Survey. <em>IEEE Access</em> 7. IEEE. DOI: <a href="https://doi.org/10.1109/ACCESS.2019.2953900">https://doi.org/10.1109/ACCESS.2019.2953900</a>
