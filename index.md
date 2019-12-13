@@ -234,6 +234,16 @@ A variety of post-workshop academic publications will beconsidered based on the 
 <div class="4u 12u$(medium)">
 <div class="box">
 <span class="image">		
+<img src="assets/images/related/eriksson2019.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 6.2em; width: 100%" />
+</span>
+<p>Sara Eriksson, Åsa Unander-Scharin, Vincent Trichon, Carl Unander-Scharin, Hedvig Kjellström, and Kristina Höök. 2019. Dancing With Drones: Crafting Novel Artistic Expressions Through Intercorporeality. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300847">https://doi.org/10.1145/3290605.3300847</a>
+</p>
+</div> <!-- .box -->
+</div><!-- col -->
+
+<div class="4u 12u$(medium)">
+<div class="box">
+<span class="image">		
 <img src="assets/images/related/knierim2018.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 6.2em; width: 100%" />
 </span>
 <p>Pascal Knierim, Thomas Kosch, Alexander Achberger, and Markus Funk. 2018. Flyables: Exploring 3D Interaction Spaces for Levitating Tangibles. In <em>Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '18)</em>. DOI: <a href="https://doi.org/10.1145/3173225.3173273">https://doi.org/10.1145/3173225.3173273</a></p>
