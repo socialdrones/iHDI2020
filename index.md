@@ -206,6 +206,9 @@ A variety of post-workshop academic publications will beconsidered based on the 
 	
 <div class="4u 12u$(medium)">
 <div class="box">
+<span class="image">		
+<img src="assets/images/clouds.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 20%" />
+</span>
 <p>Mehmet Aydın Baytaş, Damla Çay, Yuchong Zhang, Mohammad Obaid, Asim Evren Yantaç, and Morten Fjeld. 2019. The Design of Social Drones: A Review of Studies on Autonomous Flyers in Inhabited Environments. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300480">https://doi.org/10.1145/3290605.3300480</a></p>
 </div> <!-- .box -->
 </div><!-- col -->
