@@ -225,7 +225,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 <div class="4u 12u$(medium)">
 <div class="box">
 <span class="image">		
-<img src="assets/images/related/hoppe2019.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 6.2em; width: 100%" />
+<img src="assets/images/related/hoppe2019.png" alt="" data-position="25% 25%" style="object-fit: cover; height: 6.2em; width: 100%" />
 </span>
 <p>Matthias Hoppe, Marinus Burger, Albrecht Schmidt, and Thomas Kosch. 2019. DronOS: a flexible open-source prototyping framework for interactive drone routines. In <em>Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia (MUM '19)</em>. DOI: <a href="https://doi.org/10.1145/3365610.3365642">https://doi.org/10.1145/3365610.3365642</a></p>
 </div> <!-- .box -->
