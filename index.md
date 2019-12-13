@@ -202,25 +202,23 @@ A variety of post-workshop academic publications will beconsidered based on the 
 </header>
 
 <span style="font-size: 79%;">
-<div class="row">	
+<div class="row">
 	
-<div class="4u 12u$(medium)">
-<div class="box">
-<span class="image">		
+
+<p>
+<span class="image left">		
 <img src="assets/images/related/baytas2019.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 6.2em; width: 100%" />
 </span>
-<p>Mehmet Aydın Baytaş, Damla Çay, Yuchong Zhang, Mohammad Obaid, Asim Evren Yantaç, and Morten Fjeld. 2019. The Design of Social Drones: A Review of Studies on Autonomous Flyers in Inhabited Environments. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300480">https://doi.org/10.1145/3290605.3300480</a></p>
-</div> <!-- .box -->
-</div><!-- col -->
+Mehmet Aydın Baytaş, Damla Çay, Yuchong Zhang, Mohammad Obaid, Asim Evren Yantaç, and Morten Fjeld. 2019. The Design of Social Drones: A Review of Studies on Autonomous Flyers in Inhabited Environments. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300480">https://doi.org/10.1145/3290605.3300480</a>
+</p>
 
-<div class="4u 12u$(medium)">
-<div class="box">
-<span class="image">		
+
+<p>
+<span class="image left">		
 <img src="assets/images/related/funk2018.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 6.2em; width: 100%" />
 </span>
-<p>Markus Funk. 2018. Human-drone interaction: let's get ready for flying user interfaces!. <em>Interactions</em> 25, 3. DOI: <a href="https://doi.org/10.1145/3194317">https://doi.org/10.1145/3194317</a></p>
-</div> <!-- .box -->
-</div><!-- col -->
+Markus Funk. 2018. Human-drone interaction: let's get ready for flying user interfaces!. <em>Interactions</em> 25, 3. DOI: <a href="https://doi.org/10.1145/3194317">https://doi.org/10.1145/3194317</a>
+</p>
 
 <div class="4u 12u$(medium)">
 <div class="box">
