@@ -202,7 +202,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 </header>
 
 <span style="font-size: 79%;">
-	
+<div class="row">	
 	
 <div class="4u 12u$(medium)">
 <div class="box">
@@ -234,6 +234,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 </div> <!-- .box -->
 </div><!-- col -->
 
+</div><!-- .row -->
 </span>
 				
 </div><!-- .inner -->
