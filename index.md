@@ -207,7 +207,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 
 <p>
 <span class="image left">		
-<img src="assets/images/related/baytas2019.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em; width: 100%" />
+<img src="assets/images/related/baytas2019.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em;" />
 </span>
 Mehmet Aydın Baytaş, Damla Çay, Yuchong Zhang, Mohammad Obaid, Asim Evren Yantaç, and Morten Fjeld. 2019. The Design of Social Drones: A Review of Studies on Autonomous Flyers in Inhabited Environments. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300480">https://doi.org/10.1145/3290605.3300480</a>
 </p>
@@ -215,35 +215,35 @@ Mehmet Aydın Baytaş, Damla Çay, Yuchong Zhang, Mohammad Obaid, Asim Evren Yan
 
 <p>
 <span class="image left">		
-<img src="assets/images/related/funk2018.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em; width: 100%" />
+<img src="assets/images/related/funk2018.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em;" />
 </span>
 Markus Funk. 2018. Human-drone interaction: let's get ready for flying user interfaces!. <em>Interactions</em> 25, 3. DOI: <a href="https://doi.org/10.1145/3194317">https://doi.org/10.1145/3194317</a>
 </p>
 
 <p>
 <span class="image left">		
-<img src="assets/images/related/hoppe2019.png" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em; width: 100%" />
+<img src="assets/images/related/hoppe2019.png" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em;" />
 </span>
 Matthias Hoppe, Marinus Burger, Albrecht Schmidt, and Thomas Kosch. 2019. DronOS: a flexible open-source prototyping framework for interactive drone routines. In <em>Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia (MUM '19)</em>. DOI: <a href="https://doi.org/10.1145/3365610.3365642">https://doi.org/10.1145/3365610.3365642</a>
 </p>
 
 <p>
 <span class="image left">		
-<img src="assets/images/related/eriksson2019.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em; width: 100%" />
+<img src="assets/images/related/eriksson2019.png" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em;" />
 </span>
 Sara Eriksson, Åsa Unander-Scharin, Vincent Trichon, Carl Unander-Scharin, Hedvig Kjellström, and Kristina Höök. 2019. Dancing With Drones: Crafting Novel Artistic Expressions Through Intercorporeality. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300847">https://doi.org/10.1145/3290605.3300847</a>
 </p>
 
 <p>
 <span class="image left">
-<img src="assets/images/related/knierim2018.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em; width: 100%" />
+<img src="assets/images/related/knierim2018.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em;" />
 </span>
 Pascal Knierim, Thomas Kosch, Alexander Achberger, and Markus Funk. 2018. Flyables: Exploring 3D Interaction Spaces for Levitating Tangibles. In <em>Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '18)</em>. DOI: <a href="https://doi.org/10.1145/3173225.3173273">https://doi.org/10.1145/3173225.3173273</a>
 </p>
 
 <p>
 <span class="image left">		
-<img src="assets/images/related/tezza2019.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em; width: 100%" />
+<img src="assets/images/related/tezza2019.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 4em;" />
 </span>
 Dante Tezza and Marvin Andujar. 2019. The State-of-the-Art of Human–Drone Interaction: A Survey. <em>IEEE Access</em> 7. IEEE. DOI: <a href="https://doi.org/10.1109/ACCESS.2019.2953900">https://doi.org/10.1109/ACCESS.2019.2953900</a>
 </p>
