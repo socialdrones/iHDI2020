@@ -216,7 +216,7 @@ A variety of post-workshop academic publications will beconsidered based on the 
 <div class="4u 12u$(medium)">
 <div class="box">
 <span class="image">		
-<img src="assets/images/related/funk2018.gif" alt="" data-position="25% 25%" style="object-fit: cover; height: 6.2em; width: 100%" />
+<img src="assets/images/related/funk2018.jpg" alt="" data-position="25% 25%" style="object-fit: cover; height: 6.2em; width: 100%" />
 </span>
 <p>Markus Funk. 2018. Human-drone interaction: let's get ready for flying user interfaces!. <em>Interactions</em> 25, 3. DOI: <a href="https://doi.org/10.1145/3194317">https://doi.org/10.1145/3194317</a></p>
 </div> <!-- .box -->
