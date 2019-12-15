@@ -253,7 +253,7 @@ Pascal Knierim, Thomas Kosch, Alexander Achberger, and Markus Funk. 2018. Flyabl
 
 <p>
 <span class="image left">		
-<img src="assets/images/related/mueller2015.png" />
+<img src="assets/images/related/mueller2015.jpg" />
 </span>
 Florian 'Floyd' Mueller and Matthew Muirhead. 2015. Jogging with a Quadcopter. In <em>Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15)</em>. ACM, New York, NY, USA, 2023-2032. DOI: <a href"https://doi.org/10.1145/2702123.2702472">https://doi.org/10.1145/2702123.2702472</a>
 </p>
