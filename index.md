@@ -223,6 +223,12 @@ A variety of post-workshop academic publications will beconsidered based on the 
 Mehmet Aydın Baytaş, Damla Çay, Yuchong Zhang, Mohammad Obaid, Asim Evren Yantaç, and Morten Fjeld. 2019. The Design of Social Drones: A Review of Studies on Autonomous Flyers in Inhabited Environments. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300480">https://doi.org/10.1145/3290605.3300480</a>
 </p>
 
+<p>
+<span class="image left">		
+<img src="assets/images/related/eriksson2019.png" />
+</span>
+Sara Eriksson, Åsa Unander-Scharin, Vincent Trichon, Carl Unander-Scharin, Hedvig Kjellström, and Kristina Höök. 2019. Dancing With Drones: Crafting Novel Artistic Expressions Through Intercorporeality. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300847">https://doi.org/10.1145/3290605.3300847</a>
+</p>
 
 <p>
 <span class="image left">		
@@ -239,17 +245,17 @@ Matthias Hoppe, Marinus Burger, Albrecht Schmidt, and Thomas Kosch. 2019. DronOS
 </p>
 
 <p>
-<span class="image left">		
-<img src="assets/images/related/eriksson2019.png" />
-</span>
-Sara Eriksson, Åsa Unander-Scharin, Vincent Trichon, Carl Unander-Scharin, Hedvig Kjellström, and Kristina Höök. 2019. Dancing With Drones: Crafting Novel Artistic Expressions Through Intercorporeality. In <em>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</em>. DOI: <a href="https://doi.org/10.1145/3290605.3300847">https://doi.org/10.1145/3290605.3300847</a>
-</p>
-
-<p>
 <span class="image left">
 <img src="assets/images/related/knierim2018.jpg" />
 </span>
 Pascal Knierim, Thomas Kosch, Alexander Achberger, and Markus Funk. 2018. Flyables: Exploring 3D Interaction Spaces for Levitating Tangibles. In <em>Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '18)</em>. DOI: <a href="https://doi.org/10.1145/3173225.3173273">https://doi.org/10.1145/3173225.3173273</a>
+</p>
+
+<p>
+<span class="image left">		
+<img src="assets/images/related/mueller2015.png" />
+</span>
+Florian 'Floyd' Mueller and Matthew Muirhead. 2015. Jogging with a Quadcopter. In <em>Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15)</em>. ACM, New York, NY, USA, 2023-2032. DOI: <a href"https://doi.org/10.1145/2702123.2702472">https://doi.org/10.1145/2702123.2702472</a>
 </p>
 
 <p>
