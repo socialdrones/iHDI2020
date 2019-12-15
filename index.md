@@ -436,7 +436,7 @@ address = {New York, NY, USA},
 <li><a href="http://cse.unl.edu/~bduncan/rss/index.html"><em>Human-Robot Interaction for Small and Personal Unmanned Aerial Vehicles</em> at RSS 2016</a></li>
 </ul>
 
-	</div>
+</div><!-- .inner -->
 </section>
 
 </div>
