@@ -347,7 +347,7 @@ address = {New York, NY, USA},
 
 <div class="9u 12u$(medium)">
 
-<h4>Prof. Kristina Höök <span class="small">KTH Royal Institute of Technology</span></h4>
+<h4>Prof. Kristina Höök <small>KTH Royal Institute of Technology</small></h4>
 
 <h5>Drone Design and Ethics, in Performance</h5>
 
