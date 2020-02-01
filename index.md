@@ -343,6 +343,7 @@ address = {New York, NY, USA},
 	
 <div class="3u 12u$(medium)">
 <img src="assets/images/hook.jpg" alt="Kristina Höök" />
+</div><!-- col -->
 
 <div class="9u 12u$(medium)">
 
