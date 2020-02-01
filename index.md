@@ -336,7 +336,7 @@ address = {New York, NY, USA},
 <div class="inner">
 
 <header class="major">
-<h3>Keynote</h3>
+<h3>Keynote: <span style="font-weight: 300;">Drone Design and Ethics, in Performance</span></h3>
 </header>
 
 <div class="row">
@@ -348,8 +348,6 @@ address = {New York, NY, USA},
 <div class="9u 12u$(medium)">
 
 <h4>Kristina Höök <span class="relatedwork">Professor, KTH Royal Institute of Technology</span></h4>
-
-<h5>Drone Design and Ethics, in Performance</h5>
 
 <p><span class="relatedwork">
 Aerial drones enable sophisticated functionality, largely infeasible with any other technology. They are increasingly employed to enable a range of previously unseen applications, including artistic performances. When we interact with drones, we, in a sense, get superhuman powers: we become cyborgs or centaurs as we get entangled with these autonomous systems. But how is ethics is enacted and shaped in relation to the design of drones? 
