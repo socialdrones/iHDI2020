@@ -347,21 +347,21 @@ address = {New York, NY, USA},
 
 <div class="9u 12u$(medium)">
 
-<h4>Kristina Höök <small>Professor, KTH Royal Institute of Technology</small></h4>
+<h4>Kristina Höök <span class="relatedwork">Professor, KTH Royal Institute of Technology</span></h4>
 
 <h5>Drone Design and Ethics, in Performance</h5>
 
-<p><small>
+<p><span class="relatedwork">
 Aerial drones enable sophisticated functionality, largely infeasible with any other technology. They are increasingly employed to enable a range of previously unseen applications, including artistic performances. When we interact with drones, we, in a sense, get superhuman powers: we become cyborgs or centaurs as we get entangled with these autonomous systems. But how is ethics is enacted and shaped in relation to the design of drones? 
-</small></p>
+</span></p>
 
-<p><small>
+<p><span class="relatedwork">
 In a recent study, through a detailed qualitative analysis on the design process of bringing out an aerial drone "choir," Prof. Höök's research team explored how ethicality is shaped in the interaction between a choreographer, a performer, and a choir of five drones, performing together on the opera stage. From a somaesthetics perspective on ethics following Richard Shusterman, the process of crafting rich experiences together with drones can, if done right, deepen sensory appreciation skills, leading to an increased understanding of underlying somatic drivers and imposed norms. Somatic awareness thereby enables a richer repertoire of movements, expanding the ability to freely choose how to act, and cultivating empathy towards others. This shifts our understanding of ethics in HCI as solely about abstract rules or policies ‘out there,’ to also concern the specifics of how technology informs or dictates movement and experience.
-</small></p>
+</span></p>
 
-<p><small>
+<p><span class="relatedwork">
 In her keynote, Prof. Höök will discuss how a somaesthetic design lens lets us see ethics situated in and enacted with our somas – our concrete, practical, everyday lives – and thus “requires considering ethical disruptions in specific corporeal ways,” as framed by Maria Puig de la Bellacasa. As we are constantly changing, ethics is not so much a stable but rather a collective process – an ongoing, intersubjective engagement that transforms the way we think, feel, and engage with principles and ideas. The idea of ethics as something dynamic and emergent means that we can contribute to its shaping, but that the shaping happens in interaction with other humans and non-humans. 
-</small></p>
+</span></p>
 
 </div><!-- col -->
 
