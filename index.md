@@ -23,6 +23,12 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <strong>Human-drone interaction (HDI)</strong> is becoming an ubiquitous topic in daily life, and a rising research topic within CHI. Knowledge from many disciplines &ndash; design, engineering, social sciences, humanities... &ndash; can inform the design and study of HDI, making interdisciplinary communication essential. <strong>iHDI 2020</strong> aims to bring together diverse perspectives, advancing HDI and its scholarship through discussions and activities involving an assortment of research and design approaches. The workshop intends to serve as a platform for an enduring community, towards results that <em>take off</em>.
 </p>
 
+<h4>NOTICE <span class="relatedwork">13 March 2020</span></h4>
+
+<p>
+In response to the COVID-19 pandemic, CHI 2020 will not be held physically. As such, we will not be able to hold iHDI 2020 as a physical gathering. Authors of accepted contributions will be contacted with more information soon.
+</p>
+
 </div> <!-- col -->
 <div class="6u 12u$(large)">
 	
@@ -49,7 +55,9 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 			<li>Proceedings hosted at: <a href="#">TBA</a></li>
 		</ul>
 	</li>
-	<li><strong>25/26 April 2020:</strong> Workshop</li>
+	<li><del><strong>25/26 April 2020:</strong> Workshop</del>
+	<br>
+	The event is canceled.</li>
 </ul>
 
 </div> <!-- .box -->
@@ -140,11 +148,11 @@ At least one author must attend. Attendees must register for the workshop and at
 <div class="6u 12u$(large)">
 		
 <header class="major">
-<h3>Workshop Program*</h3>
+<h3><del>Workshop Program*</del></h3>
 </header>
 				
 
-<p>
+<p><del>
 <strong>15 min</strong> Opening<br>
 <strong>15 min</strong> Introduction and Ice-breaking<br>
 <strong>20 min</strong> Keynote<br>
@@ -155,10 +163,10 @@ At least one author must attend. Attendees must register for the workshop and at
 <strong>40 min</strong> Prototype Presentations and Discussin<br>
 <strong>30 min</strong> Summary and Closing<br>
 <strong>Afterwards</strong> Dinner and Networking
-</p>
+</del></p>
 
 
-<p><small>* Tentative</small></p>
+<p><del><small>* Tentative</small></del></p>
 
 </div>
 <div class="6u 12u$(large)">
