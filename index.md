@@ -23,12 +23,6 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <strong>Human-drone interaction (HDI)</strong> is becoming an ubiquitous topic in daily life, and a rising research topic within CHI. Knowledge from many disciplines &ndash; design, engineering, social sciences, humanities... &ndash; can inform the design and study of HDI, making interdisciplinary communication essential. <strong>iHDI 2020</strong> aims to bring together diverse perspectives, advancing HDI and its scholarship through discussions and activities involving an assortment of research and design approaches. The workshop intends to serve as a platform for an enduring community, towards results that <em>take off</em>.
 </p>
 
-<h4>NOTICE <span class="relatedwork">13 March 2020</span></h4>
-
-<p>
-In response to the COVID-19 pandemic, CHI 2020 will not be held physically. As such, we will not be able to hold iHDI 2020 as a physical gathering. Authors of accepted contributions will be contacted with more information soon.
-</p>
-
 </div> <!-- col -->
 <div class="6u 12u$(large)">
 	
@@ -62,6 +56,16 @@ In response to the COVID-19 pandemic, CHI 2020 will not be held physically. As s
 
 </div> <!-- .box -->
 
+</div> <!-- col -->
+</div> <!-- .row -->
+
+<div class="row">
+<div class="12u">
+<h4>NOTICE <span class="relatedwork">13 March 2020</span></h4>
+
+<p>
+In response to the COVID-19 pandemic, CHI 2020 will not be held physically. As such, we will not be able to hold iHDI 2020 as a physical gathering. Authors of accepted contributions will be contacted with more information soon.
+</p>
 </div> <!-- col -->
 </div> <!-- .row -->
 
