@@ -64,7 +64,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 <h4>NOTICE <span class="relatedwork">13 March 2020</span></h4>
 
 <p>
-In response to the COVID-19 pandemic, CHI 2020 will not be held physically. As such, we will not be able to hold iHDI 2020 as a physical gathering. Authors of accepted contributions will be contacted with more information soon.
+In response to the COVID-19 pandemic, <a href="https://chi2020.acm.org/blog/chi-2020-and-covid-19-coronavirus/">CHI 2020 will not be held physically</a>. As such, we will not be able to hold iHDI 2020 as a physical gathering. Authors of accepted contributions will be contacted with more information soon.
 </p>
 </div> <!-- col -->
 </div> <!-- .row -->
