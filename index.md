@@ -1,7 +1,7 @@
 ---
 title: "iHDI 2020: Interdisciplinary Workshop on Human-Drone Interaction"
 layout: landing
-description: "at CHI '20 | Hawaiʻi Convention Center, Honolulu, HI, USA | 26 April 2020 (hours TBA)"
+description: "<del>at CHI '20 | Hawaiʻi Convention Center, Honolulu, HI, USA | 26 April 2020</del>"
 image: assets/images/graduation.jpg
 nav-menu: false
 ---
