@@ -49,7 +49,7 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 			<li>Proceedings hosted at: <a href="#">TBA</a></li>
 		</ul>
 	</li>
-	<li><del><strong>26 April 2020:</strong> Workshop</del></li>
+	<li><strong>26 April 2020:</strong> Workshop</li>
 </ul>
 
 </div> <!-- .box -->
