@@ -118,7 +118,7 @@ The submission deadline is 11 February 2020. Authors are invited to submit posit
 </p>
 
 <p>
-The proceedings will be stored on the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a>, indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be considered for publication in a special issue of the <a href="https://thri.acm.org/">THRI</a> journal.
+The proceedings will be stored on the open archive <del>the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a></del> <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a>, indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be considered for publication in a special issue of the <a href="https://thri.acm.org/">THRI</a> journal.
 </p>
 
 <p>
@@ -180,7 +180,7 @@ At least one author must attend. Attendees must register for the workshop and at
 </header>
 				
 <p>
-Workshop papers will be stored on the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a> (indexed by Google Scholar). Papers will also be listed here on the workshop website, with links to the HAL reposiory. A brief report on workshop activities, as well as selected photos and descriptions of outputs from the hands-on session (subject to creators’ permissions) will be published here on the workshop website. We also aim to explore other online platforms for continuous knowledge sharing, based on the preferences of the community. 
+Workshop papers will be stored on <del>the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a></del> <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a> (indexed by Google Scholar). Papers will also be listed here on the workshop website, with links to the reposiory. A brief report on workshop activities, as well as selected photos and descriptions of outputs from the hands-on session (subject to creators’ permissions) will be published here on the workshop website. We also aim to explore other online platforms for continuous knowledge sharing, based on the preferences of the community. 
 </p>
 
 <p>
