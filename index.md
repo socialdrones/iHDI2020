@@ -150,7 +150,7 @@ At least one author must attend. Attendees must register for the workshop and at
 <div class="6u 12u$(large)">
 		
 <header class="major">
-<h3><del>Workshop Program*</del></h3>
+<h3><del>Workshop Program</del></h3>
 </header>
 				
 
@@ -167,8 +167,6 @@ At least one author must attend. Attendees must register for the workshop and at
 <strong>Afterwards</strong> Dinner and Networking
 </del></p>
 
-
-<p><del><small>* Tentative</small></del></p>
 
 </div>
 <div class="6u 12u$(large)">
