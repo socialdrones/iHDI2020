@@ -118,7 +118,7 @@ The submission deadline is 11 February 2020. Authors are invited to submit posit
 </p>
 
 <p>
-The proceedings will be stored on the open archive <del>the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a></del> <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a>, indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be considered for publication in a special issue of the <a href="https://thri.acm.org/">THRI</a> journal.
+The proceedings will be stored on <del>the open archive <a href="https://hal.archives-ouvertes.fr/">HAL</a></del> <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a>, indexed by Google Scholar. A paper on workshop outcomes will be submitted to a relevant venue. Selected contributions will be considered for publication in a special issue of the <a href="https://thri.acm.org/">THRI</a> journal.
 </p>
 
 <p>
