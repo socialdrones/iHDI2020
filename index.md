@@ -1,7 +1,7 @@
 ---
 title: "iHDI 2020: Interdisciplinary Workshop on Human-Drone Interaction"
 layout: landing
-description: "<del>at CHI '20 | Hawaiʻi Convention Center, Honolulu, HI, USA | 26 April 2020</del>"
+description: "at CHI '20 | Hawaiʻi Convention Center, Honolulu, HI, USA | 26 April 2020"
 image: assets/images/graduation.jpg
 nav-menu: false
 ---
@@ -42,16 +42,14 @@ The <strong>Interdisciplinary Workshop on Human-Drone Interaction (iHDI 2020)</s
 				<li><del>Submission format: <a href="https://chi2020.acm.org/authors/chi-proceedings-format/">CHI Extended Abstracts Format</a></del></li>
 			</ul>
 	</li>
-	<li><del><strong>28 February 2020:</strong> Authors notified of acceptance</del></li>
+	<li><strong>28 February 2020:</strong> Authors notified of acceptance</li>
 	<li>
 		<strong>25 April 2020:</strong> Proceedings published
 		<ul style="margin-bottom: 0;">
 			<li>Proceedings hosted at: <a href="#">TBA</a></li>
 		</ul>
 	</li>
-	<li><del><strong>25/26 April 2020:</strong> Workshop</del>
-	<br>
-	The event is canceled.</li>
+	<li><del><strong>26 April 2020:</strong> Workshop</del></li>
 </ul>
 
 </div> <!-- .box -->
