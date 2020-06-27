@@ -302,7 +302,7 @@ Dante Tezza and Marvin Andujar. 2019. The State-of-the-Art of Human–Drone Inte
 	<h3>Proceedings</h3>
 </header>
 
-<p>Full proceedings available at: <a href="http://ceur-ws.org/Vol-2617/">http://ceur-ws.org/Vol-2617/</a></p>
+<p>Full proceedings available at: <strong><a href="http://ceur-ws.org/Vol-2617/">http://ceur-ws.org/Vol-2617/</a></strong></p>
 
 <style>
 	span.CEURTITLE {
