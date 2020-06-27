@@ -302,7 +302,107 @@ Dante Tezza and Marvin Andujar. 2019. The State-of-the-Art of Human–Drone Inte
 	<h3>Proceedings</h3>
 </header>
 
-<p>TBA</p>
+<p>Full proceedings available at: <a href="http://ceur-ws.org/Vol-2617/">http://ceur-ws.org/Vol-2617/</a></p>
+
+<style>
+	span.CEURTITLE {
+		font-weight: 600;
+	}
+</style>
+
+<ul>
+
+<li id="paper1"><a href="http://ceur-ws.org/Vol-2617/paper1.pdf">
+<span class="CEURTITLE">Enhancing Social Experiences with Shared Drones</span></a><br>
+<span class="CEURAUTHOR">Sven Mayer</span>, 
+<span class="CEURAUTHOR">Piotr Ładoński</span>, 
+<span class="CEURAUTHOR">Julia Dominiak</span>, 
+<span class="CEURAUTHOR">Andrzej Romanowski</span>, 
+<span class="CEURAUTHOR">Paweł W. Woźniak</span>, 
+<span class="CEURAUTHOR">Lars Lischke</span>
+</li>
+
+<li id="paper2"><a href="http://ceur-ws.org/Vol-2617/paper2.pdf">
+<span class="CEURTITLE">Exploring the Use of Drones for Taking Accessible Selfies with Elderly</span></a><br>
+<span class="CEURAUTHOR">Yuan Yao</span>,
+<span class="CEURAUTHOR">Weiwei Zhang</span>,
+<span class="CEURAUTHOR">Soojeong Yoo</span>,
+<span class="CEURAUTHOR">Callum Parker</span>,
+<span class="CEURAUTHOR">Jihong Jeung</span>
+</li>
+
+<li id="paper3"><a href="http://ceur-ws.org/Vol-2617/paper3.pdf">
+<span class="CEURTITLE">ProxyDrone: Autonomous Drone Landing on the Human Body</span></a><br>
+<span class="CEURAUTHOR">Jonas Auda</span>,
+<span class="CEURAUTHOR">Martin Weigel</span>,
+<span class="CEURAUTHOR">Jessica Cauchard</span>,
+<span class="CEURAUTHOR">Stefan Schneegass</span>
+</li>
+
+<li id="paper4"><a href="http://ceur-ws.org/Vol-2617/paper4.pdf">
+<span class="CEURTITLE">Agent Archetypes for Human-Drone Interaction: Social Robots or Objects with Intent?</span></a><br>
+<span class="CEURAUTHOR">Mehmet Aydın Baytaş</span>,
+<span class="CEURAUTHOR">Sara Ljungblad</span>,
+<span class="CEURAUTHOR">Joseph La Delfa</span>,
+<span class="CEURAUTHOR">Morten Fjeld</span>
+</li>
+
+<li id="paper5"><a href="http://ceur-ws.org/Vol-2617/paper5.pdf">
+<span class="CEURTITLE">How We Own Drones: On the Sense of Ownership in the Drone Design</span></a><br>
+<span class="CEURAUTHOR">Anastasia Kuzminykh</span>,
+<span class="CEURAUTHOR">Jessica Cauchard</span>
+</li>
+
+<li id="paper6"><a href="http://ceur-ws.org/Vol-2617/paper6.pdf">
+<span class="CEURTITLE">Let’s Fly! An Analysis of Flying FPV Drones Through an Online Survey</span></a><br>
+<span class="CEURAUTHOR">Dante Tezza</span>,
+<span class="CEURAUTHOR">Derek Caprio</span>,
+<span class="CEURAUTHOR">Denis Laesker</span>,
+<span class="CEURAUTHOR">Marvin Andujar</span>
+</li>
+
+<li id="paper7"><a href="http://ceur-ws.org/Vol-2617/paper7.pdf">
+<span class="CEURTITLE">Human-Drone Interactions with Semi-Autonomous Cohorts of Collaborating Drones</span></a><br>
+<span class="CEURAUTHOR">Jane Cleland-Huang</span>,
+<span class="CEURAUTHOR">Ankit Agrawal</span>
+</li>
+
+<li id="paper8"><a href="http://ceur-ws.org/Vol-2617/paper8.pdf">
+<span class="CEURTITLE">3D Tactile Obstacle Awareness System for Drones using a Tactile Interface around the Head</span></a><br>
+<span class="CEURAUTHOR">Oliver Beren Kaul</span>,
+<span class="CEURAUTHOR">Michael Rohs</span>
+</li>
+
+<li id="paper9"><a href="http://ceur-ws.org/Vol-2617/paper9.pdf">
+<span class="CEURTITLE">Don’t Drone Yourself in Work: Discussing DronOS as a Framework for Human-Drone Interaction</span></a><br>
+<span class="CEURAUTHOR">Matthias Hoppe</span>,
+<span class="CEURAUTHOR">Yannick Weiß</span>,
+<span class="CEURAUTHOR">Marinus Burger</span>,
+<span class="CEURAUTHOR">Thomas Kosch</span>
+</li>
+
+<li id="paper10"><a href="http://ceur-ws.org/Vol-2617/paper10.pdf">
+<span class="CEURTITLE">MaDrone: Using Drones to Facilitate Connectedness Across Geographic Boundaries</span></a><br>
+<span class="CEURAUTHOR">Mikołaj P. Woźniak</span>, 
+<span class="CEURAUTHOR">Sebastian Feger</span>, 
+<span class="CEURAUTHOR">Matthias Hoppe</span>,
+<span class="CEURAUTHOR">Thomas Kosch</span>,
+<span class="CEURAUTHOR">Stephanie Van de Sandt</span>, 
+<span class="CEURAUTHOR">Jakob Karolus</span>,
+<span class="CEURAUTHOR">Luke Haliburton</span>,
+<span class="CEURAUTHOR">Paweł W. Woźniak</span>, 
+<span class="CEURAUTHOR">Jasmin Niess</span>
+</li>
+
+<li id="paper11"><a href="http://ceur-ws.org/Vol-2617/paper11.pdf">
+<span class="CEURTITLE">Object-Centric Camera Drone Control for Unconstrained Telepresence</span></a><br>
+<span class="CEURAUTHOR">Jiannan Li</span>, 
+<span class="CEURAUTHOR">Ravin Balakrishnan</span>, 
+<span class="CEURAUTHOR">Tovi Grossman</span>
+</li>
+
+</ul>
+
 
 </div> <!-- col -->
 <div class="6u 12u$(large)">
