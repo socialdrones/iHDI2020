@@ -296,7 +296,7 @@ Dante Tezza and Marvin Andujar. 2019. The State-of-the-Art of Human–Drone Inte
 				
 <div class="row">
 	
-<div class="6u 12u$(large)">
+<div class="12u">
 		
 <header class="major">
 	<h3>Proceedings</h3>
@@ -405,7 +405,11 @@ Dante Tezza and Marvin Andujar. 2019. The State-of-the-Art of Human–Drone Inte
 
 
 </div> <!-- col -->
-<div class="6u 12u$(large)">
+</div> <!-- .row -->
+
+
+<div class="row">	
+<div class="12u">
 	
 <div class="box" style="font-size: 79%;">
 
